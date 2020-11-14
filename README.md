@@ -90,6 +90,8 @@ References and Practice to help you master this module.
 <br>
 
 > https://study.hackyourfuture.be/node-js
+>
+> [Class Recordings](#class-recordings)
 
 ### Debugging Node in VSCode
 
@@ -109,6 +111,7 @@ References and Practice to help you master this module.
   - [Mosh: Node.js in 1 hour](https://www.youtube.com/watch?v=uVwtVBpw7RQ&list=PLTjRvDozrdlydy3uUBWZlLUTNpJSGGCEm&index=1)
   - [Traversy: Node for Absolute Beginners](https://www.youtube.com/watch?v=U8XF6AFGqlc)
   - [Traversy: Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+  - [NetNinja: Node Js Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU)
 - **Built-In Modules**
   - [About _/examples-and-exercises:_ `fs`](https://vimeo.com/414475261) (first 20 minutes)
   - [promisifying-fs](https://github.com/hackyourfuturebelgium/promisifying-fs)
@@ -577,7 +580,7 @@ Here are some tips to help you find your way:
   - Give your name
   - and a helpful description
 
-<details>
+<details open>
 <summary><strong>Class 7-8</strong></summary>
 <br>
 
@@ -605,7 +608,7 @@ Here are some tips to help you find your way:
 ---
 
 
-<details>
+<details open>
 <summary><strong>Class 9-10</strong></summary>
 <br>
 
@@ -624,3 +627,7 @@ Here are some tips to help you find your way:
    3. [... Params, Body, Queries](https://vimeo.com/472211640)
    4. [Texidor](https://vimeo.com/472212077)
    5. [Texidor Recap & DIY Wiki](https://vimeo.com/472212418)
+3. Week 3
+   - [Middleware & Refactoring Servers](https://meet.openknowledge.be/playback/presentation/2.0/playback.html?meetingId=05594ce10542676cd7f00b5d118cb2f367054196-1604228078483)
+4. Week 4:
+  - [JSON Schemas & Data Validation](https://meet.openknowledge.be/playback/presentation/2.0/playback.html?meetingId=05594ce10542676cd7f00b5d118cb2f367054196-1604832954065)
